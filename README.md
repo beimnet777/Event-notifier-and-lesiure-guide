@@ -17,7 +17,7 @@
  
         Group Members
        Name                       ID              Section
-       Beimnet Bekele       Ugr/3739/12             1
+       *Beimnet Bekele       Ugr/3739/12             1
        Nahom Senay          ugr/9334/12             2
        Fikremariam FIkadu   ugr/9125/12             2
        Tewodros Alemu       ugr/7621/12             2
